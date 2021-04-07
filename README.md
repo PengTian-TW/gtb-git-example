@@ -2,5 +2,5 @@
 
 Git Remote.
 
--Git
--SVN
+- Git
+- SVN
